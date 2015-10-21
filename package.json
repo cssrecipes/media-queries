@@ -1,0 +1,24 @@
+{
+  "name": "cssrecipes-media-queries",
+  "version": "1.0.0",
+  "description": "media queries for inline-styles",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "babel --stage 0 src --out-dir lib",
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cssrecipes/media-queries.git"
+  },
+  "keywords": [
+    "media-queries",
+    "breakpoints"
+  ],
+  "author": "bloodyowl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cssrecipes/media-queries/issues"
+  },
+  "homepage": "https://github.com/cssrecipes/media-queries#readme"
+}
