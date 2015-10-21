@@ -1,8 +1,14 @@
 {
   "name": "cssrecipes-media-queries",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "media queries for inline-styles",
   "main": "lib/index.js",
+  "files": [
+    "lib",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
   "scripts": {
     "start": "babel --stage 0 src --out-dir lib",
     "test": "exit 0"
