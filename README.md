@@ -10,7 +10,7 @@ $ npm install cssrecipes-media-queries
 
 ## Usage
 
-```javacript
+```javascript
 import mediaQueries from "cssrecipes-media-queries"
 
 mediaQueries.maxS // "30em"
